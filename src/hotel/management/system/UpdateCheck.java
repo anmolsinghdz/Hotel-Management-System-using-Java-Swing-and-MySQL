@@ -15,7 +15,7 @@ public class UpdateCheck extends JFrame implements ActionListener {
         setSize(980,500);
         setLocation(300,200);
         getContentPane().setBackground(Color.WHITE);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(null);
 
         JLabel text=new JLabel("Update Status");

@@ -18,7 +18,7 @@ public class AddCustomer extends JFrame implements ActionListener {
     AddCustomer(){
         setSize(800,550);
         setLocation(350,200);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        //setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
 

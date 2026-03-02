@@ -16,7 +16,7 @@ public class ManagerInfo extends JFrame implements ActionListener {
         setLocation(300,200);
         setLayout(null);
         getContentPane().setBackground(Color.WHITE);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JLabel l1=new JLabel("Name");
         l1.setBounds(40,10,100,20);

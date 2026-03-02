@@ -12,7 +12,7 @@ public class AddRooms extends JFrame implements ActionListener {
     AddRooms(){
         setSize(940,470);
         setLocation(330,200);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setResizable(false);
         setLayout(null);
         getContentPane().setBackground(Color.WHITE);

@@ -16,7 +16,7 @@ public class Room extends JFrame implements ActionListener {
         setLocation(300,200);
         setLayout(null);
         getContentPane().setBackground(Color.WHITE);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         ImageIcon i1=new ImageIcon(ClassLoader.getSystemResource("icons/eight.jpg"));
         Image i2=i1.getImage().getScaledInstance(600,600,Image.SCALE_DEFAULT);

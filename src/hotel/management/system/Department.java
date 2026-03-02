@@ -16,7 +16,7 @@ public class Department extends JFrame implements ActionListener {
         setLocation(400,200);
         setLayout(null);
         getContentPane().setBackground(Color.WHITE);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 
         JLabel l1=new JLabel("Department");

@@ -19,7 +19,7 @@ public class Checkout extends JFrame implements ActionListener {
         setLocation(300,200);
         setLayout(null);
         getContentPane().setBackground(Color.WHITE);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         Conn conn = new Conn();
 
